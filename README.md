@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 
 ### 🐰jiyoon
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wldbs8241)](https://solved.ac/wldbs8241/)
 
 
