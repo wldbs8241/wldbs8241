@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ### 🐰jiyoon
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=yunie_Github&fontSize=50)
+
+<!-- <a href="https://github.com/imysh578"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=wldbs8241&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a> -->
 
 ## Activities
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldbs8241) -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wldbs8241)](https://github.com/wldbs8241/github-readme-stats)
